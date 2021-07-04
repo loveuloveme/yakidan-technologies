@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/yakidan-technologies/static/css/main.93a58514.chunk.css",
-    "main.js": "/yakidan-technologies/static/js/main.26f203aa.chunk.js",
-    "main.js.map": "/yakidan-technologies/static/js/main.26f203aa.chunk.js.map",
+    "main.css": "/yakidan-technologies/static/css/main.4a16a61e.chunk.css",
+    "main.js": "/yakidan-technologies/static/js/main.38bec99b.chunk.js",
+    "main.js.map": "/yakidan-technologies/static/js/main.38bec99b.chunk.js.map",
     "runtime-main.js": "/yakidan-technologies/static/js/runtime-main.62efc700.js",
     "runtime-main.js.map": "/yakidan-technologies/static/js/runtime-main.62efc700.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/yakidan-technologies/static/css/2.ae9e5f60.chunk.css",
@@ -10,22 +10,22 @@
     "static/js/2.dc2e3e08.chunk.js.map": "/yakidan-technologies/static/js/2.dc2e3e08.chunk.js.map",
     "index.html": "/yakidan-technologies/index.html",
     "static/css/2.ae9e5f60.chunk.css.map": "/yakidan-technologies/static/css/2.ae9e5f60.chunk.css.map",
-    "static/css/main.93a58514.chunk.css.map": "/yakidan-technologies/static/css/main.93a58514.chunk.css.map",
+    "static/css/main.4a16a61e.chunk.css.map": "/yakidan-technologies/static/css/main.4a16a61e.chunk.css.map",
     "static/js/2.dc2e3e08.chunk.js.LICENSE.txt": "/yakidan-technologies/static/js/2.dc2e3e08.chunk.js.LICENSE.txt",
     "static/media/bg.cac56f7d.mp4": "/yakidan-technologies/static/media/bg.cac56f7d.mp4",
-    "static/media/icon_loveu.fddd6012.png": "/yakidan-technologies/static/media/icon_loveu.fddd6012.png",
+    "static/media/icon_loveu.0700c4fc.png": "/yakidan-technologies/static/media/icon_loveu.0700c4fc.png",
     "static/media/icon_ser.042821ea.png": "/yakidan-technologies/static/media/icon_ser.042821ea.png",
     "static/media/icon_vlad.be8053c1.png": "/yakidan-technologies/static/media/icon_vlad.be8053c1.png",
-    "static/media/loveuloveme.1a0f542f.png": "/yakidan-technologies/static/media/loveuloveme.1a0f542f.png",
+    "static/media/loveu.afb07fd4.png": "/yakidan-technologies/static/media/loveu.afb07fd4.png",
     "static/media/ser.f69bf58c.png": "/yakidan-technologies/static/media/ser.f69bf58c.png",
-    "static/media/vlad.1b330c2b.png": "/yakidan-technologies/static/media/vlad.1b330c2b.png",
+    "static/media/vlad.0075152b.png": "/yakidan-technologies/static/media/vlad.0075152b.png",
     "static/media/yakidan.f2a1b9fb.png": "/yakidan-technologies/static/media/yakidan.f2a1b9fb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.62efc700.js",
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.dc2e3e08.chunk.js",
-    "static/css/main.93a58514.chunk.css",
-    "static/js/main.26f203aa.chunk.js"
+    "static/css/main.4a16a61e.chunk.css",
+    "static/js/main.38bec99b.chunk.js"
   ]
 }
