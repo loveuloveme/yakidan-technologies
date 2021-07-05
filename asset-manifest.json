@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/yakidan-technologies/static/css/main.7a8b32d3.chunk.css",
-    "main.js": "/yakidan-technologies/static/js/main.d41a2cd2.chunk.js",
-    "main.js.map": "/yakidan-technologies/static/js/main.d41a2cd2.chunk.js.map",
+    "main.css": "/yakidan-technologies/static/css/main.a0a6c72b.chunk.css",
+    "main.js": "/yakidan-technologies/static/js/main.df03a44a.chunk.js",
+    "main.js.map": "/yakidan-technologies/static/js/main.df03a44a.chunk.js.map",
     "runtime-main.js": "/yakidan-technologies/static/js/runtime-main.62efc700.js",
     "runtime-main.js.map": "/yakidan-technologies/static/js/runtime-main.62efc700.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/yakidan-technologies/static/css/2.ae9e5f60.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.dc2e3e08.chunk.js.map": "/yakidan-technologies/static/js/2.dc2e3e08.chunk.js.map",
     "index.html": "/yakidan-technologies/index.html",
     "static/css/2.ae9e5f60.chunk.css.map": "/yakidan-technologies/static/css/2.ae9e5f60.chunk.css.map",
-    "static/css/main.7a8b32d3.chunk.css.map": "/yakidan-technologies/static/css/main.7a8b32d3.chunk.css.map",
+    "static/css/main.a0a6c72b.chunk.css.map": "/yakidan-technologies/static/css/main.a0a6c72b.chunk.css.map",
     "static/js/2.dc2e3e08.chunk.js.LICENSE.txt": "/yakidan-technologies/static/js/2.dc2e3e08.chunk.js.LICENSE.txt",
     "static/media/bg.16c6fb47.mp4": "/yakidan-technologies/static/media/bg.16c6fb47.mp4",
     "static/media/bg.f9274dd0.jpg": "/yakidan-technologies/static/media/bg.f9274dd0.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.62efc700.js",
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.dc2e3e08.chunk.js",
-    "static/css/main.7a8b32d3.chunk.css",
-    "static/js/main.d41a2cd2.chunk.js"
+    "static/css/main.a0a6c72b.chunk.css",
+    "static/js/main.df03a44a.chunk.js"
   ]
 }
